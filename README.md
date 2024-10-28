@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🙌 I'm You-Ming Chang from Taiwan.
+- 📚 NYCU CS Master (AI Innovation)
+- 💡 Interested in CV / DL
+- 📫 How to reach me: thisismiiiing@gmail.com
+
 <!--
 **thisismingggg/thisismingggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
